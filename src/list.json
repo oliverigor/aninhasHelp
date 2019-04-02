@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicod41414e" },
+    { "id": 2, "title": "json-serve555r", "author": "ty42424picode" },
+    { "id": 3, "title": "json-serve12313r", "author": "typic4242ode" },
+    { "id": 4, "title": "json-serve1231r", "author": "typicod21421e" },
+    { "id": 5, "title": "json-serve23132r", "author": "typicod412e" },
+    { "id": 6, "title": "json-ser1212ver", "author": "typicod1241e" }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
